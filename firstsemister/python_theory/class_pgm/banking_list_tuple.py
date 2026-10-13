@@ -1,0 +1,7 @@
+name=str (input("name:"))
+pan_no=int(input("enter your pan number:"))
+accno=int(input("enter your account number:"))
+dob=input("enter your date of birth:")
+email=input("email:")
+address=int(input("enter your address(place):"))
+cont=int(input("enter your pan number:"))
